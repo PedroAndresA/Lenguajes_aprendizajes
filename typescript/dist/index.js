@@ -1,2 +1,2 @@
 "use strict";
-let mensaje = "hola hermoso mundo";
+let mensaje = "hola hermoso mundo mundo mundo";
